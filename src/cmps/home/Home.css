@@ -1,0 +1,4 @@
+.frames{
+    display: flex;
+    flex-direction: row;
+}

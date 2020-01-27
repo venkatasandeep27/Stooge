@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#container p{
+    font-weight: bold;
+    color: black;
+
+}
+.downimage{
+    width: 13px;
+    height: 13px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.menulink{
+    display:inline;
+}
+.menulink p{
+    float:left;
+}

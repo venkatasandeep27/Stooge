@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width:10vw;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 20px;
+    line-height: 1px;
+    justify-content: center;
+    box-shadow: 0px 0px 9px 1px #777;
+    margin-bottom: 10px;
+}
+#abc{
+    display:block;
+}
+.small{
+    width: 90px;
+    height: 90px;
+    margin-top: 20%;
+    margin-left: 10px;
+
+
+}
+.offer{
+    width: 250px;
+    text-align:justify;
+    color: crimson;
+    
+    
+
+
+}
